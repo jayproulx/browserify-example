@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "dependencies": {
+    "uglifyify": "~1.2.1",
+    "grunt-browserify": "~1.3.0",
+    "grunt": "~0.4.2"
+  }
+}
